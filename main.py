@@ -1,6 +1,6 @@
 from settings import BOT_TOKEN, HEADERS, CITY_CODE
 
-import telebot
+from pyTelegramBotAPI import telebot
 from telebot import types
 from telebot.types import InputMediaPhoto
 

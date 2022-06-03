@@ -1,5 +1,4 @@
 # Project Title
-
 A Telegram Python bot for searching apartments in Georgia and Armenia.
 
 ### Getting Started

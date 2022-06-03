@@ -126,6 +126,7 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+settings.py
 .pyre/
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/misc.xml
@@ -133,5 +134,5 @@ dmypy.json
 .idea/modules.xml
 .idea/vcs.xml
 .idea/
-settings.py
+
 
